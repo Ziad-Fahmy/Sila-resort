@@ -1,33 +1,70 @@
-# Sila Resort
+# Getting Started with Create React App
 
-A premium real estate platform for showcasing available properties in **Sharm El Sheikh**.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Explore the Sila Resort website](https://sila-resort.com)
+## Available Scripts
 
----
+In the project directory, you can run:
 
-### Overview
+### `npm start`
 
-**Sila Resort** is a fully-featured real estate platform designed to offer potential buyers a seamless and engaging experience. The website highlights available units for sale, displays an extensive image gallery of the resort, and provides essential information such as payment options and direct contact features. With a focus on user experience, the platform offers fast access to property details and easy communication options for prospective buyers.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Key Features
-- **Available Units**: A comprehensive list of properties for sale, including detailed unit specifications, pricing, and high-resolution images.
-- **Image Gallery**: A visually compelling gallery showcasing the beauty and appeal of the resort and its surroundings.
-- **Payment Information**: Clear and concise payment plans, offering transparency for potential buyers.
-- **Location and Contact**: Integrated tap-to-call and tap-to-open map functionality for direct engagement with the sales team and easy navigation to the resort.
-- **Responsive Design**: Fully optimized for mobile, tablet, and desktop users, ensuring a consistent and intuitive browsing experience across all devices.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Technology Stack
-- **React**: Utilized to build a dynamic and responsive user interface.
-- **Bootstrap**: Integrated for a mobile-first and fully responsive design system.
-- **React Router**: Powers smooth and efficient page navigation throughout the platform.
-- **CSS**: Custom styling for enhanced visual appeal and user experience.
+### `npm test`
 
----
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### About the Project
+### `npm run build`
 
-Sila Resort was developed using the latest in web technology to provide a fast, secure, and scalable platform for real estate management. Its responsive design ensures that users can explore the resort’s offerings effortlessly, whether they’re on a desktop or mobile device. This project prioritizes user engagement and transparency, making it easy for buyers to find the information they need and connect with the sales team in just a few clicks.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-[Visit the website](https://sila-resort.com) and explore the luxurious properties available at **Sila Resort** in Sharm El Sheikh.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
